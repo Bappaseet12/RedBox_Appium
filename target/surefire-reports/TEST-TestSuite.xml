@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="1.872" tests="7" errors="0" skipped="4" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+    <property name="java.vm.version" value="25.151-b12"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/bappa.seet/Desktop/RedBox_Appium"/>
+    <property name="java.runtime.version" value="1.8.0_151-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/_4/lqgf6y4x5jb22sjtzp5k0qln8kfxxr/T/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/Users/bappa.seet/Desktop/Redbox_Automation/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf6639947234591759472.tmp"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/bappa.seet/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.12.6"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/bappa.seet"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="bappa.seet"/>
+    <property name="java.class.path" value="/Users/bappa.seet/Desktop/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.5.1.20150109-1819/jars/plexus-classworlds-2.5.1.jar"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_151"/>
+    <property name="java.ext.dirs" value="/Users/bappa.seet/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Users/bappa.seet/Desktop/RedBox_Appium/EMBEDDED"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="startTime" classname="com.appium.model.StartExecution" time="0.047"/>
+  <testcase name="startUp" classname="com.redbox.testscripts.FullFlow" time="1.116">
+    <failure message="Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.&#10;Build info: version: &apos;2.51.0&apos;, revision: &apos;1af067dbcaedd7d2ab9af5151fc471d363d97193&apos;, time: &apos;2016-02-05 11:20:57&apos;&#10;System info: host: &apos;elt-73.estblr.com&apos;, ip: &apos;172.16.18.73&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.12.6&apos;, java.version: &apos;1.8.0_151&apos;&#10;Driver info: driver.version: IOSDriver" type="org.openqa.selenium.remote.UnreachableBrowserException">org.openqa.selenium.remote.UnreachableBrowserException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.51.0', revision: '1af067dbcaedd7d2ab9af5151fc471d363d97193', time: '2016-02-05 11:20:57'
+System info: host: 'elt-73.estblr.com', ip: '172.16.18.73', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_151'
+Driver info: driver.version: IOSDriver
+	at com.redbox.testscripts.FullFlow.startUp(FullFlow.java:56)
+Caused by: org.openqa.selenium.WebDriverException: 
+org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused (Connection refused)
+Build info: version: '2.51.0', revision: '1af067dbcaedd7d2ab9af5151fc471d363d97193', time: '2016-02-05 11:20:57'
+System info: host: 'elt-73.estblr.com', ip: '172.16.18.73', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.6', java.version: '1.8.0_151'
+Driver info: driver.version: IOSDriver
+	at com.redbox.testscripts.FullFlow.startUp(FullFlow.java:56)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:4723 [/127.0.0.1] failed: Connection refused (Connection refused)
+	at com.redbox.testscripts.FullFlow.startUp(FullFlow.java:56)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at com.redbox.testscripts.FullFlow.startUp(FullFlow.java:56)
+</failure>
+    <system-out><![CDATA[Yes
+]]></system-out>
+    <system-err><![CDATA[Warning:  Property storage name for 5 is empty - setting to Root Entry
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAddCookies).
+log4j:WARN Please initialize the log4j system properly.
+]]></system-err>
+  </testcase>
+  <testcase name="beforeTest" classname="com.redbox.testscripts.FullFlow" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="launchApplication" classname="com.redbox.testscripts.FullFlow" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="afterTest" classname="com.redbox.testscripts.FullFlow" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="com.redbox.testscripts.FullFlow" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="endTime" classname="com.appium.model.EndExecution" time="0.001"/>
+</testsuite>
